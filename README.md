@@ -1,12 +1,7 @@
-<h1 align="center">Hello Fellow < Developers/ ></h1>
-<h3 align="center"> I'm Wallflower, A passionate Web developer from Milano</h3>
+<h1 align="center">Salut les < Developers/ ></h1>
+<h3 align="center"> Je m'apelles Alexandre alias PikPak !</h3>
 
-<!-- - 🌱 I’m currently mastering my skills in **Javascript**
-
-- 👯 I’m looking to collaborate on **Javascript projects**
-
-- 💬 Ask me about **React, Vue, Angular, NodeJs**	 -->
-I love the collaborative and open-source nature of the web development community, and I'm excited to share my projects and contributions on GitHub. My goal is to not only continue learning and growing as a developer, but also to contribute to and learn from the amazing projects and people in the GitHub community.
+Je suis fasciné par l'esprit d'ouverture et de collaboration qui caractérise la communauté du développement web. Partager mes projets et contributions sur GitHub me passionne. Mon but n'est pas uniquement de poursuivre mon développement personnel et professionnel, mais aussi d'enrichir et de bénéficier des ressources exceptionnelles et des talents au sein de la communauté GitHub.
 
 Feel free to check out my repositories and connect with me on GitHub. I'm always open to new opportunities and collaborations, so don't hesitate to reach out!
  <br>
@@ -19,7 +14,7 @@ Feel free to check out my repositories and connect with me on GitHub. I'm always
 | [**JavaScript Algorithms and Data Structures**](https://github.com/pikpakpik/javascript-algorithms-and-data-structures) | [![GitHub issues](https://img.shields.io/github/issues/pikpakpik/javascript-algorithms-and-data-structures?color=green&logo=github&style=flat)](https://github.com/pikpakpik/javascript-algorithms-and-data-structures) | [![GitHub PRs](https://img.shields.io/github/issues-pr/pikpakpik/javascript-projects-2021?style=flat&logo=github)](https://github.com/pikpakpik/javascript-projects-2021pulls)  | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/pikpakpik/javascript-algorithms-and-data-structures?style=flat&color=critical&logo=github)](https://github.com/pikpakpik/javascript-algorithms-and-data-structures/pulls?q=is%3Apr+is%3Aclosed)  |
 | [**Full Stack Engineer**](https://github.com/pikpakpik/full-stack-engineer-2021) | [![GitHub issues](https://img.shields.io/github/issues/pikpakpik/full-stack-engineer-2021?color=green&logo=github&style=flat)](https://github.com/pikpakpik/full-stack-engineer-2021/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/pikpakpik/full-stack-engineer-2021?style=flat&logo=github)](https://github.com/pikpakpik/full-stack-engineer-2021/pulls)  | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/pikpakpik/full-stack-engineer-2021?style=flat&color=critical&logo=github)](https://github.com/pikpakpik/full-stack-engineer-2021/pulls?q=is%3Apr+is%3Aclosed)  |
 
-<sup><kbd>***[Click here](https://github.com/pikpakpik/my-views-counter)***</kbd> *to view my other projects.</sup>* <br>
+<sup><kbd>***[Click here](https://github.com/pikpakpik/)***</kbd> *to view my other projects.</sup>* <br>
 
 <!-- #### [Click here to ask or suggest anything about my repositories!](https://github.com/pikpakpik/pikpakpik/issues/new) <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"><br><br> -->
 
@@ -52,10 +47,6 @@ Haruki Murakami, Norwegian Wood
   <img width="400em" src="https://github-readme-stats.vercel.app/api?username=pikpakpik&show_icons=true&locale=en&theme=radical"                alt="pikpakpik"/>
   <img width="400em" src="https://github-readme-streak-stats.herokuapp.com/?user=pikpakpik&theme=radical" alt="pikpakpik" />
 </p>
-
-<!-- <p align="center"> 
-  <img width="600em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pikpakpik&layout=compact&langs_count=999&include_all_commits=true&hide_progress=true&hide_border=true&theme=radical&hide=">
-</p> -->
 
 # Contributions
 (in the last 365 days, languages pie based on number of commits)
