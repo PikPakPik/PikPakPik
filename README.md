@@ -1,4 +1,4 @@
-<h1 style="text-align: center">Salut les < Developers/ ></h1>
+<h1 style="text-align: center">Salut les < Developpeurs/ ></h1>
 <h3 style="text-align: center"> Je m'apelles Alexandre alias PikPak !</h3>
 
 Je suis fasciné par l'esprit d'ouverture et de collaboration qui caractérise la communauté du développement web. Partager mes projets et contributions sur GitHub me passionne. Mon but n'est pas uniquement de poursuivre mon développement personnel et professionnel, mais aussi d'enrichir et de bénéficier des ressources exceptionnelles et des talents au sein de la communauté GitHub.
