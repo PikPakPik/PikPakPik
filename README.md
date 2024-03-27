@@ -6,8 +6,8 @@
   
 <h3 style="text-align: center"> Je m'apelles Alexandre alias PikPak !</h3>
 
-
-<sup><kbd>**_[Click here](https://github.com/pikpakpik/)_**</kbd> _pour voir mes autres projets.</sup>_
+<sup><kbd>**_[Click here](https://github.com/pikpakpik/)_**</kbd> _pour voir mes autres projets.</sup>_  
+<sup>[TrellTech](https://github.com/eloiJhn/T-DEV-600-NAN_2)</sup>
   
   <img src="https://github-readme-stats.vercel.app/api?username=PikPakPik&show_icons=true&theme=dark" />
 
